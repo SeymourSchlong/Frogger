@@ -11,7 +11,7 @@ import javax.imageio.ImageIO;
 /**
  * Bootleg Frogger.
  * 
- * @author tayloreyben0315
+ * @author seymour
  */
 
 public class Frog extends javax.swing.JFrame implements KeyListener {
